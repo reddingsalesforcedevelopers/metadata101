@@ -1,0 +1,8 @@
+{
+  "packageDirectories": [
+    { "path": "sfdx-source/atw", "default": true },
+    { "path": "sfdx-source/untracked"}
+  ],
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "45.0"
+}

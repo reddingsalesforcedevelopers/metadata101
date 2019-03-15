@@ -1,0 +1,6 @@
+{
+    "orgName": "AmericanTrailerWorks Scratch Org",
+    "edition": "Enterprise",
+    "features" : ["PersonAccounts","Communities", "ServiceCloud"],
+    "orgPreferences" : ["IsNameSuffixEnabled", "IsMiddleNameEnabled", "NetworksEnabled", "Translation", "IsOrdersEnabled", "ChatterEnabled"]
+}

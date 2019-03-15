@@ -1,0 +1,12 @@
+// Local System files
+.DS_Store
+.vscode/
+.sfdx/
+
+// Non-tracked source folder
+mdapi-source/
+temp/
+unpackged/
+
+// Duplicate files
+**.dup
