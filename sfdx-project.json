@@ -1,6 +1,6 @@
 {
   "packageDirectories": [
-    { "path": "sfdx-source/atw", "default": true },
+    { "path": "sfdx-source", "default": true },
     { "path": "sfdx-source/untracked"}
   ],
   "sfdcLoginUrl": "https://login.salesforce.com",
